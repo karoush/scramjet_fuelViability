@@ -1,5 +1,5 @@
 # An Investigation of Fuel Type Viability for Scramjet Combustors
-* Many of the materials referenced for this project are not available for public release. Please consult the references section of the paper for more details.
+*Many of the materials referenced for this project are not available for public release. Please consult the references section of the paper for more details.
 <br/>
 <h3>Objective</h3>
 As part of my Spring 2018 research semester at Georgia Tech's Benn T. Zinn Combustion Lab, I was tasked with writing a paper, then presenting on a combustion related area I had an interest in. For this project, I opted to do a literary investigation of the viability of fuel types for scramjet combustors.
